@@ -13,7 +13,7 @@
         android:allowBackup="false"
         android:label="Camera"
         android:supportsRtl="true"
-        android:theme="@style/Theme.CameraRecorder">
+        android:theme="@style/Theme.AppCompat.NoActionBar">
 
         <activity
             android:name=".MainActivity"
